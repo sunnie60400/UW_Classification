@@ -19,3 +19,10 @@ W2(II): Logistic Regression with L2 Regularization
 - Write a function to compute the derivative of log likelihood function with an L2 penalty with respect to a single coefficient
 - Implement gradient ascent with an L2 penalty.
 - Empirically explore how the L2 penalty can ameliorate overfitting
+
+W3(I): Identifying Safe Loans with Decision Trees
+- Turn categorical variables into binary features via one-hot encoding
+- Use sklearn.tree.DecisionTreeClassifier to train decision tree models using different max_depth
+- Use predict(), prdict_prob() to make predictions
+- Use score() to assess to performance of decision tree models
+- Compute number of false negative and false positive
