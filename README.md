@@ -26,3 +26,10 @@ W3(I): Identifying Safe Loans with Decision Trees
 - Use predict(), prdict_prob() to make predictions
 - Use score() to assess to performance of decision tree models
 - Compute number of false negative and false positive
+
+W3(II): Implementing Binary Decision Trees
+- Write a function to compute the number of misclassified examples in an intermediate node
+- Write a function to find the best feature to split on
+- Build a binary decision tree from scratch
+- Make predictions using the decision tree
+- Evaluate the accuracy of the decision tree
